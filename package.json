@@ -1,0 +1,39 @@
+{
+  "name": "@abhi93/eslint-config",
+  "version": "1.0.0",
+  "description": "minimal eslint rule for taking care of the code formatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "@abhi93",
+    "@abhi93/eslint",
+    "@abhi93/eslint-config",
+    "@abhi93/eslintconfig",
+    "eslint",
+    "eslintconfig",
+    "eslint-config",
+    "eslint-config-jsx",
+    "eslint-config-react",
+    "eslit-react",
+    "lint-config",
+    "lint-rules",
+    "react-eslint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishekumar93/eslint-config.git"
+  },
+  "author": "Abhishek Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishekumar93/eslint-config/issues"
+  },
+  "homepage": "https://github.com/Abhishekumar93/eslint-config#readme",
+  "devDependencies": {
+    "eslint": "^9.5.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.3.2"
+  }
+}
